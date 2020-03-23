@@ -66,7 +66,7 @@ function cekfont(){
         sleep 1
     else
         echo -e "$RED [ X ]$BLUE Segoe-UI Font ➜$RED NOT INSTALLED\n"
-        continueFont
+        fontinstall
     fi
 }
 
